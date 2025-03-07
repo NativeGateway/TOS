@@ -1,6 +1,6 @@
 # Native - Terms of Service
 
-_Please review the following terms carefully before using Native's services._
+Please review the following terms carefully before using Native's services.
 
 ## Prohibition of Script Sharing  
 Users are prohibited from sharing, distributing, or replicating any scripts associated with Native without explicit permission. Violations may result in immediate termination of access.
@@ -26,6 +26,6 @@ Any invasion, compromise, or unauthorized use of user data is strictly prohibite
 ## Pricing and Features  
 Both pricing and features of Native’s services, products, or offerings may change at any time without prior notice. Native reserves the right to modify its services based on market conditions, technological improvements, or internal policies.
 <br><br>
-_-Credits to OB_
+-Credits to OB
 ***
 By using Native’s services, you acknowledge that you have read, understood, and agreed to abide by these terms. Failure to comply with any of the above provisions may result in penalties, including but not limited to suspension or termination of your account. Native reserves the right to enforce these terms at its sole discretion.
