@@ -27,4 +27,4 @@ Any invasion, compromise, or unauthorized use of user data is strictly prohibite
 Both pricing and features of Native’s services, products, or offerings may change at any time without prior notice. Native reserves the right to modify its services based on market conditions, technological improvements, or internal policies.
 <br><br>
 
-PLEASE NOTE: By using Native’s services, you acknowledge that you have read, understood, and agreed to abide by these terms. Failure to comply with any of the above provisions may result in penalties, including but not limited to suspension or termination of your account. Native reserves the right to enforce these terms at its sole discretion.
+**PLEASE NOTE:** By using Native’s services, you acknowledge that you have read, understood, and agreed to abide by these terms. Failure to comply with any of the above provisions may result in penalties, including but not limited to suspension or termination of your account. Native reserves the right to enforce these terms at its sole discretion.
